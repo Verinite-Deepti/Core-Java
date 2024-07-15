@@ -9,14 +9,6 @@ This repository is designed to provide a collection of core Java programming con
   - Variables and Data Types
   - Control Flow (if, switch, loops)
   - Object-Oriented Programming (Classes, Inheritance, Polymorphism)
-  - Collections Framework
-  - Streams and Lambda Expressions
-
-- **Assignments**: Practical tasks and exercises to apply and test your knowledge of Java concepts. Each assignment includes:
-  - Problem Statement
-  - Instructions
-  - Sample Input/Output 
-  - Solution Code 
 
 - **Demonstration PDF**: An attached PDF file that provides demonstrations of the assignments.
 
