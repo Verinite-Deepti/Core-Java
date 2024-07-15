@@ -15,6 +15,6 @@ This repository is designed to provide a collection of core Java programming con
   - **Patterns**: Implementing common programming patterns 
   - **Strings**: Manipulating strings, regular expressions, and string methods.
 
-- **Demonstration PDF**: An attached PDF file that provides demonstrations of the assignments.
+  Demonstration PDF: An attached PDF file that provides demonstrations of the assignments.
 
 
